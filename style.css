@@ -1,0 +1,62 @@
+html {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+*{
+    margin: 0px 0px;
+}
+
+body{
+   text-align: center;
+}
+
+.topbar{
+    outline: 2px solid red;
+    background-color: rgb(0 24 222 / 0.05);
+}
+
+.hero{
+    outline: 1px solid orange;
+    background-color: rgb(0 244 0 / 0.05);
+    margin-top: 100px;
+    padding: 5px 5px 5px 5px;
+    height: auto;
+}
+
+.playground{
+    outline: 2px solid blue;
+    background-color: rgb(0 24 222 / 0.05);
+    margin-top: 20px;
+}
+
+.boxes{
+    height: 100px;
+    outline: 2px solid red;
+    background-color: rgb(0 24 222 / 0.05);
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.box1{
+    height: 50px;
+    width: 50px;
+    outline: 2px solid orangered;
+    background-color: rgb(255 0 0 / 0.05);
+}
+
+.box2{
+    height: 50px;
+    width: 50px;
+    outline: 2px solid orangered;
+    background-color: rgb(255 0 0 / 0.05);
+}
+
+.box3{
+    height: 50px;
+    width: 50px;
+    outline: 2px solid orangered;
+    background-color: rgb(255 0 0 / 0.05);
+}
+    
